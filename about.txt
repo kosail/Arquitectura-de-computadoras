@@ -1,0 +1,9 @@
+# 🖥️ Arquitectura de computadoras — Final Project Website
+
+This is a simple, static website built using [Hugo](https://gohugo.io/) with the beautiful **Stack theme** by [Jimmy Cai](https://github.com/CaiJimmy/hugo-theme-stack).
+
+> 📌 **Note:** This repository exists mainly as a place to host the project website online — it’s part of a university assignment and not intended to be a full-featured public project. You're welcome to explore, but please keep in mind that it’s not actively maintained or developed beyond this course submission.
+
+---
+
+Thanks for stopping by! 🚀
